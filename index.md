@@ -8,16 +8,16 @@ hero:
   tagline: 强大且易用的高德地图PHP-SDK
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 查看文档
       link: /markdown-examples
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: 覆盖高德地图WebAPI所有场景
+  - title: 🛠️覆盖高德地图WebAPI所有场景
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 精心设计的API，拥有极致开发体验
+  - title: 简单易用的API，拥有极致开发体验
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

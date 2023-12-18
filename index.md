@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "EasyGaoDe"
-  text: "高德地图开放平台Web API PHP-SDK"
-  tagline: My great project tagline
+  text: "高德地图开放平台PHP-SDK"
+  tagline: 强大且易用的高德地图PHP-SDK
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,9 +15,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 覆盖高德地图WebAPI所有场景
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 精心设计的API，拥有极致开发体验
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

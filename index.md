@@ -11,8 +11,8 @@ hero:
       text: 查看文档
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: composer require createlinux/easygaode 📋
+      link: 
 
 features:
   - title: 🛠️覆盖高德地图WebAPI所有场景

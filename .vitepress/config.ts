@@ -17,14 +17,18 @@ export default defineConfig({
       {
         text: '文档',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'IP定位', link: '/ip-locator' },
+          { text: '坐标转换', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/createlinux/easygaode' }
-    ]
+    ],
+    footer: {
+      message: '基于Apache 2.0 License.',
+      copyright: 'Created By <a href="https://www.litchilab.com" target="_blank">荔枝实验室</a> Copyright © 2024'
+    }
   }
 })
